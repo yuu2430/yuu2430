@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about tr
 ## 🔥 Current Focus
 - **Building**: Sentiment analysis tools with NLP (72% accuracy achieved)
 - **Learning**: SQL for database management
-- **Exploring**: Generative AI applications for data visualization
+- **Exploring**: ML and Gen AI 
 
 ## 🛠️ Tech Stack
 **Languages & Tools**  
