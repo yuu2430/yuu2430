@@ -2,13 +2,13 @@
 
 ## Department of Statistics Student @ MSU Baroda, Gujarat, India
 
-**Data Analyst | Visual Storyteller**
+**Aspiring Data Scientist | Visual Storyteller**
 
 Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about transforming raw data into meaningful insights through Python, R, and Tableau. My projects blend analytical rigor with design thinking to solve real-world problems.
 
 ## 🔥 Current Focus
 - **Building**: Sentiment analysis tools with NLP (72% accuracy achieved)
-- **Learning**: Advanced SQL for database management
+- **Learning**: SQL for database management
 - **Exploring**: Generative AI applications for data visualization
 
 ## 🛠️ Tech Stack
@@ -34,13 +34,10 @@ Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about tr
 3. [Statistical Detective Game](https://github.com/yuu2430/stats-gamehttps://github.com/yuu2430/StatisticalDetetective)  
    - Python-based educational game
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuu2430&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 - LinkedIn: [Vaishali Sharma](https://linkedin.com/in/vai2430)
 - Email: vaishalis2430@gmail.com
-- Portfolio: [vai2430.carrd.co](https://vai2430.carrd.co/))
+- Portfolio: [vai2430.carrd.co](https://vai2430.carrd.co/)
 
 ## ⚡ Fun Fact
 I create anime-stylized digital art for 5.7 K+ followers on X! find me [@vai2430](https://x.com/vai2430)
