@@ -31,13 +31,14 @@ Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about tr
    - survey records from AATAPI Foundation
    
 
-3. [Statistical Detective Game](https://github.com/yuu2430/stats-gamehttps://github.com/yuu2430/StatisticalDetetective)  
+3. [Statistical Detective Game](https://github.com/yuu2430/StatisticalDetetective)  
    - Python-based educational game
 
 ## 📫 Let's Connect
 - LinkedIn: [Vaishali Sharma](https://linkedin.com/in/vai2430)
 - Email: vaishalis2430@gmail.com
 - Portfolio: [vai2430.carrd.co](https://vai2430.carrd.co/)
+- CV: [click here](https://github.com/yuu2430/Vaishali-Sharma-CV.pdf)
 
 ## ⚡ Fun Fact
 I create anime-stylized digital art for 5.7 K+ followers on X! find me [@vai2430](https://x.com/vai2430)
