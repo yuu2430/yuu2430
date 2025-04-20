@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Vaishali Sharma 
 
-## Department of Statistics Student @ MSU Baroda, Gujarat, India
-
-**Aspiring Data Scientist | Visual Storyteller**
+## Aspiring Data Scientist | Visual Storyteller
+**Department of Statistics Student @ MSU Baroda, Gujarat, India**
 
 Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about transforming raw data into meaningful insights through Python, R, and Tableau. My projects blend analytical rigor with design thinking to solve real-world problems.
 
