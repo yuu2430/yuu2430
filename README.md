@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm an MSc Statistics graduate passionate about tr
 - LinkedIn: [Vaishali Sharma](https://linkedin.com/in/vai2430)
 - Email: vaishalis2430@gmail.com
 - Portfolio: [vai2430.carrd.co](https://vai2430.carrd.co/)
-- CV: [Vaishali Sharma](https://github.com/yuu2430/yuu2430/blob/main/Vaishali-Sharma-CV.pdf))
+- CV: [Vaishali Sharma](https://github.com/yuu2430/yuu2430/blob/main/Vaishali-Sharma-CV.pdf)
 
 ## ⚡ Fun Fact
 I create anime-stylized digital art for 5.7 K+ followers on X! find me [@vai2430](https://x.com/vai2430)
