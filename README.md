@@ -3,7 +3,7 @@
 ## Aspiring Data Scientist | Visual Storyteller
 **Department of Statistics Student @ MSU Baroda, Gujarat, India**
 
-Welcome to my GitHub profile! I'm an MSc Statistics Post-graduate Student passionate about transforming raw data into meaningful insights through Python, R, and Tableau. My projects blend analytical rigor with design thinking to solve real-world problems.
+Welcome to my GitHub profile! I'm an MSc Statistics Student passionate about transforming raw data into meaningful insights through Python, R, and Tableau. My projects blend analytical rigor with design thinking to solve real-world problems.
 
 ## 🔥 Current Focus
 - **Building**: Sentiment analysis tools with NLP along with my team-mates (72% accuracy achieved)
