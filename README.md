@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an MSc Statistics Student passionate about tra
 
 ## 🌟 Featured Projects
 1. Sentiment Analysis of MSU Student Feedback  (Currently working)
-   - Classified 328 student responses with 72% accuracy using NLTK
+   - Classified 328 student responses with 81% accuracy using NLTK
    - Processed 316 audio recordings into structured data
 
 2. [Women's Livelihood Study](https://github.com/yuu2430/Women-and-Livelihood-Project) 
