@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm an MSc Statistics Student passionate about tra
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ## 🌟 Featured Projects
-1. Sentiment Analysis of MSU Student Feedback  (Currently working)
+1. [Sentiment Analysis of MSU Student Feedback](https://github.com/yuu2430/sentiment-analysis)
    - Classified 328 student responses with 81% accuracy using NLTK
    - Processed 316 audio recordings into structured data
 
